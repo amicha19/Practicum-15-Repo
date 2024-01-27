@@ -77,6 +77,4 @@ if(option == 1)
 ### WHAT TO DO
 
 - `Finish the program` and correct any syntax or runtime errors.
-- `Test the program` and correct any logic errors.
-- `Run the predefined tests` (click checkmark in the left column
-under Tools) and correct any logic errors.
+- Correct any syntax, runtime or logic errors.
